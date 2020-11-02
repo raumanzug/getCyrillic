@@ -21,7 +21,7 @@ There are two working modes: Latin mode and Russian mode.  Russian mode is prese
 
 ### Transformation in Russian mode
 
-Use Russian mode in order to produce Russian letters in the output.
+Use Russian mode in order to produce UTF-8 encoded Russian letters in the output.
 
 &#x0410;&larr;A,
 &#x0411;&larr;B,
